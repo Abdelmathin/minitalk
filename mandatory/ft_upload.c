@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_upload.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi ahabachi@student.1337.ma          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/29 18:18:51 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/10/29 18:18:52 by ahabachi         ###   ########.fr       */

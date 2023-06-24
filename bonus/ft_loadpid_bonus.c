@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_loadpid_bonus.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi ahabachi@student.1337.ma          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/29 16:59:09 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/10/29 16:59:10 by ahabachi         ###   ########.fr       */

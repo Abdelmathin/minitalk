@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_reset_client_bonus.c                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi ahabachi@student.1337.ma          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/31 05:29:32 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/10/31 05:29:33 by ahabachi         ###   ########.fr       */
